@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af2ece6e-4cd1-4162-8fee-84de80dfe221" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/posts/fundamentally-confused.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/junior-developer-survival-kit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/homepage.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/homepage.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/free-churro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/hey-bojack.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/who-is-bojack.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/homepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/homepage.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ipEPJiKfIi95Bmk6GhtVgf7Swy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_layouts" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Markdown" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_notes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_layouts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af2ece6e-4cd1-4162-8fee-84de80dfe221" name="Default Changelist" comment="" />
+      <created>1602596107669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602596107669</updated>
+      <workItem from="1602596108832" duration="12327000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1795" y="75" key="SettingsEditor" timestamp="1602618587102">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1795" y="75" key="SettingsEditor/-1920.23.1920.1057/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1602618587102" />
+    <state x="2046" y="215" width="998" height="616" key="find.popup" timestamp="1602612577522">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2046" y="215" width="998" height="616" key="find.popup/-1920.23.1920.1057/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1602612577522" />
+  </component>
+</project>
