@@ -1,5 +1,5 @@
 ---
-date: "2020-09-01"
+date: "2020-09-15"
 title: "I fundamentally don't understand this." 
 ---
 

@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af2ece6e-4cd1-4162-8fee-84de80dfe221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/posts/fundamentally-confused.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/junior-developer-survival-kit.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/homepage.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/homepage.liquid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/free-churro.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/hey-bojack.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/who-is-bojack.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/homepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/homepage.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/fundamentally-confused.md" beforeDir="false" afterPath="$PROJECT_DIR$/posts/fundamentally-confused.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_layouts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Markdown" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -45,19 +38,6 @@
       <recent name="$PROJECT_DIR$/_layouts" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,6 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602596107669</updated>
       <workItem from="1602596108832" duration="12327000" />
+      <workItem from="1602622482795" duration="25000" />
     </task>
     <servers />
   </component>
