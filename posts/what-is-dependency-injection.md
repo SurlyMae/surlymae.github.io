@@ -1,6 +1,6 @@
 ---
 date: "2018-11-15"
-title: BlogPost: What is dependency injection?
+title: What is dependency injection? (blog post) 
 ---
 
 _Dependency injection is a principle of object-oriented programming. But what does it actually mean?_
