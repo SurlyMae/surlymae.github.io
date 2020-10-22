@@ -1,6 +1,6 @@
 ---
 date: "2018-10-15"
-title: So, you're a developer now! Here's how to survive.
+title: So, you're a developer now! Here's how to survive. (blog post)
 ---
 _This is a version of a talk I gave at a meetup in [Silicon Slopes](https://newsroom.siliconslopes.com/about-silicon-slopes-3/), Utah._
 
