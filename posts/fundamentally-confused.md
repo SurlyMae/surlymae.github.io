@@ -1,6 +1,6 @@
 ---
 date: "2020-09-15"
-title: Fundamentally Confused
+title: Fundamentally Confused (blog post)
 ---
 "I fundamentally don't understand this." This was recently said to me by a
  bootcamp student. They were wondering where all these methods came from
