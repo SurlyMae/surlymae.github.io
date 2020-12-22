@@ -24,11 +24,14 @@ Here is a real-life example:
    - This response message contains a **representation** of the resource the browser has requested
 5. The browser interprets the representation and displays it
    - In other words, our browser (the HTTP client, remember) has changed **state**
-6. The client changes _**state**_ depending on _**representation**_ of the resource we're accessing.
+6. The client changes _**state**_ depending on _**representation**_ of the resource we're accessing.  
 
-The HTTP client can be a browser, but often it's an application.
 
-# **REST is defined by six constraints** (constraints are just design decisions):
+The HTTP client can be a browser, but often it's an application.  
+
+
+REST is defined by six constraints (constraints are just design decisions):  
+
 
 1. Client-server constraint
    - Client and server are separated
@@ -58,9 +61,11 @@ The HTTP client can be a browser, but often it's an application.
      2. Manipulation of resources through representations
         - Representation plus metadata should be sufficient information to modify or delete the resource (permissions assumed)
      3. Self-descriptive messages
-        - Each message must include enough information to describe how to process the message
+        - Each message must include enough information to describe how to process the message  
 
-# REST often uses HTTP protocol, but doesn't have to. **What is http protocol?**
+
+REST often uses HTTP protocol, but doesn't have to. What is http protocol?  
+
 
 1. A protocol that allows fetching of resources
    - A protocol is just a set of rules that define how data is exchanged within or between computers
@@ -69,10 +74,13 @@ The HTTP client can be a browser, but often it's an application.
    - Requests initiated by recipient
    - Clients and servers communicate by exchanging individual messages as opposed to a stream of data
    - Messages sent by client are called requests
-   - Messages sent by server are called responses
+   - Messages sent by server are called responses  
 
-# **What are the http methods?**  
--> Different actions can use the same URI - it's up to the verb(method) to decide what happens.
+
+What are the http methods?  
+
+-> Different actions can use the same URI - it's up to the verb(method) to decide what happens.  
+
 
 1. GET
    - Used for reading resources
@@ -106,10 +114,13 @@ The HTTP client can be a browser, but often it's an application.
 7. OPTIONS
    - Represents a request for info about the communication options available on that URI
    - Will tell us whether or not we can GET/POST/DELETE the resource
-   - Options are typically in response headers
+   - Options are typically in response headers  
 
-# **What are status codes?**  
--> Status codes tell the consumer of the API whether or not the request worked out as expected, and what is responsible for a failed req
+
+What are status codes?  
+
+-> Status codes tell the consumer of the API whether or not the request worked out as expected, and what is responsible for a failed req  
+
 
 1. Level 200: Success
    - 200: OK
@@ -126,25 +137,33 @@ The HTTP client can be a browser, but often it's an application.
    - 415: Unsupported media type, sort of opposite of 406
    - 422: Unprocessable entity, semantic mistakes, usually related to validation
 3. Level 500: Server mistakes
-   - 500: Internal server error, server made the mistake and client can't do anything about it
+   - 500: Internal server error, server made the mistake and client can't do anything about it  
 
-# **Other things that are important:**  
--> Naming conventions
+
+Other things that are important:  
+
+-> Naming conventions  
+
 
 1. Use nouns, not actions
    - A RESTful URI should refer to a resource that is a thing, i.e. api/employees instead of api/getemployees
    - using nouns conveys meaning - it should describe resource
    - keep it consistent and predictable
-2. Represent hierarchy when naming resources - i.e. api/departments/id/employees
+2. Represent hierarchy when naming resources - i.e. api/departments/id/employees  
 
--> Unchanging URIs
+
+-> Unchanging URIs  
+
 
 1. Resource URIs should remain same even if back end changes.
    - this is a good reason to not use real database IDs-what if someone has bookmarked api/departments/200?
-   - can use GUIDs instead
+   - can use GUIDs instead  
 
-#**Richardson Maturity Model**  
--> Grades APIs by their RESTful maturity
+
+Richardson Maturity Model  
+
+-> Grades APIs by their RESTful maturity  
+
 
 1. Level 0: The swamp of plain old XML
    - HTTP protocol is used for remote interaction, but the rest of the protocol isn't used how it should be.
@@ -160,9 +179,11 @@ The HTTP client can be a browser, but often it's an application.
 4. Level 3: Hypermedia
    - Level 3 is the bare minimum for an API to be considered truly RESTful
    - API supports HATEOAS
-   - Example: a GET req to /api/employees would return a list of employees and code/links that drive application state (hypermedia)
+   - Example: a GET req to /api/employees would return a list of employees and code/links that drive application state (hypermedia)  
 
-# **To be truly RESTful, must implement HATEOAS:**
+
+To be truly RESTful, must implement HATEOAS:  
+
 
 1. Hypermedia as the engine of application state
    - Hypermedia is a generalization of hypertext (links)
