@@ -3,9 +3,12 @@ date: "2017-03-17"
 title: I've been a developer for six weeks. These are the code school skills I actually use. (blog post)
 ---
 
+<br>
+<br>
 In December 2016 I finished the Front-End Engineering program at The Iron Yard in Salt Lake City. In January I was offered a job and in February I started that job. So what did I learn in bootcamp that’s helped me daily?
 
 <hr>
+
 ## How to read code
 
 I used to beat myself up constantly for being able to read code and understand what it’s doing, but not being able to write it myself. And then I got a job at a place with multiple giant codebases and it turns out that reading code and understanding it is the more important thing (at least right now — I was here four weeks before I needed to write anything from scratch). Every week I’m introduced to a new thing at work, and lo and behold, all that practice I got reading code during school comes in handy again.
@@ -31,4 +34,6 @@ You caught that, right? What I said about it being worse? It implies those first
 Not only were we encouraged to go to meetups all over Salt Lake City, we were often thrown into on-campus networking events with little notice, or required to pair with people we didn’t know at all. The result? I can approach anyone at my job or at meetups, and I can successfully pair with any teammate. I know this isn’t a big deal to plenty of folks, but this was a skill I did not have before The Iron Yard, and it’s been huge for me.
 
 <hr>
+<br>
+<br>
 I can’t be the only bootcamp grad whose first job uses a different language than the one studied in school, and I’m so glad I can still get some ROI for my $25,000 (tuition plus three months of not working). So, my advice to anyone attending or considering code school — spend as much time focusing on the soft skills as you do on the actual code. It’ll pay off.
