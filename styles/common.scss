@@ -1,11 +1,11 @@
 ::selection {
   color: white;
-  background-color: brown;
+  background-color: rgb(16, 47, 85);
 }
 
 ::-moz-selection {
   color: white;
-  background-color: brown;
+  background-color: rgb(16, 47, 85);
 }
 
 * {
@@ -15,8 +15,8 @@
 
 body {
   font-family: "IBM Plex Sans", sans-serif;
-  color: #394655;
-  background: #fffef7;
+  color: rgb(16, 47, 85);
+  background: #f0eeeb;
 }
 
 .container {
@@ -24,14 +24,14 @@ body {
   blockquote {
     margin: 16px 0;
     padding: 0 1em;
-    color: brown;
+    color: rgb(16, 47, 85);
     border-left: 0.25em solid;
   }
 }
 
 a {
   text-decoration: none;
-  color: brown;
+  color:rgb(16, 47, 85);
 
   &:hover {
     cursor: pointer;
